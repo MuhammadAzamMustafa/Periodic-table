@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+    background-color:#000   
+}
+table{
+    justify-content: center;
+    background-color:royalblue ;
+}
